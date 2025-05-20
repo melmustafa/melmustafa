@@ -11,24 +11,24 @@ I'm a passionate programmer from Sudan, currently working at JobHunt, specializi
 ### Skills & Technologies
 
 **Languages:**  
-C | C++ | Go | Python | JavaScript | TypeScript | Bash
+C | C++ | Go | Python | JavaScript/TypeScript | Bash
 
 **Backend & Frameworks:**  
-Node.js | Express.js | NestJS | Flask
+NodeJS | ExpressJS | NestJS | Flask
 
 **Frontend (light exposure):**  
-Vue.js | Nuxt.js | HTML | CSS
+HTMX | ReadJS | NextJS | VueJS | NuxtJS
 
 **Databases:**  
 PostgreSQL | MySQL | MongoDB | Redis | RabbitMQ
 
 **DevOps & Cloud:**  
-Docker | Kubernetes | AWS | Azure | GCP
+Docker | Kubernetes | AWS | Azure | GCP | Elastic Stack
 
 **Tools:**  
-Git | GitHub | CI/CD | Nginx
+Linux | Git | GitHub | CI/CD | Nginx
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,js,ts,bash,nodejs,express,nestjs,flask,vue,nuxt,html,css,git,github,docker,k8s,mysql,postgres,mongodb,redis,rabbitmq,aws,azure,gcp,nginx,ci)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,js,ts,bash,nodejs,express,nestjs,flask,vue,nuxt,html,css,react,next,htmx,linux,git,github,docker,k8s,mysql,postgres,mongodb,redis,rabbitmq,aws,azure,gcp,nginx,ci)](https://skillicons.dev)
 
 ### Philosophy
 
