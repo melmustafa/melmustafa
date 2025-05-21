@@ -47,7 +47,7 @@ Linux | Git | GitHub | CI/CD | Nginx
 ### Let's Connect
 
 - Blog and projects: [zikkas.dev](https://zikkas.dev)
-- Open to collaborations, discussions, and backend or high-performance challenges.
+- Open to collaborations, discussions, and challenges in backend or high-performance.
 
 ### Random Quote
 
